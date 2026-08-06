@@ -13,9 +13,8 @@ Permite llevar control de finanzas y ver resúmenes por mes y categoría.
 
 ## 🛠️ Tecnologías Usadas
 
-- *Python 3* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- *SQLite3* - Base de datos embebida ![SQLite](https://img.shields.io/badge/SQLite-3776AB?style=for-the-badge&logo=sqlite&logoColor=white)
-- *SQL* - Consultas con SELECT, SUM, GROUP BY, LIKE
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-3776AB?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 📦 Cómo Usarlo
 
