@@ -23,3 +23,11 @@ Permite llevar control de finanzas y ver resúmenes por mes y categoría.
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanGonzalez-Colab/Sistema-gastos-personales/blob/main/gestor_gastos.py)
 2.  Ejecuta el archivo gestor_gastos.py
 3.  Usa el menú:
+
+## Ejemplo de uso
+El sistema guarda los datos en un archivo ´gastos.db´ y te permite filtrar por mes:
+´2026-08´ > Total gastado: $15300
+
+## 👨‍💻 Autor
+**Juan Gonzalez**
+Proyecto realizado para practicar Python + SQL + Git/GitHub
