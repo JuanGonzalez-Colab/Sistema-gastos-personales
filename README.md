@@ -19,10 +19,10 @@ Permite llevar control de finanzas y ver resúmenes por mes y categoría.
 
 ## 📦 Cómo Usarlo
 
-1.  Clona el repositorio o ábrelo en Google Colab
+1.  Dale al siguiente botón: 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanGonzalez-Colab/Sistema-gastos-personales/blob/main/Gestor_gastos.ipynb)
-2.  Ejecuta el archivo gestor_gastos.py
-3.  Usa el menú:
+2.  ´Ejecutar todo´ y listo
+3.  Usa el menú: 1, 2, 3, 4, 5
 
 ## Ejemplo de uso
 El sistema guarda los datos en un archivo ´gastos.db´ y te permite filtrar por mes:
