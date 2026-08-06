@@ -26,7 +26,7 @@ Permite llevar control de finanzas y ver resúmenes por mes y categoría.
 ## Ejemplo de uso
 El sistema guarda los datos en un archivo ´gastos.db´ y te permite filtrar por mes:
 ´2026-08´ > Total gastado: $15300
-![Menú del sistema]()
+![Menú del Sistema de Gastos](demo_gastos.png)
 
 ## 👨‍💻 Autor
 **Juan Gonzalez**
