@@ -1,0 +1,25 @@
+# Sistema de Gastos Personales
+
+Un sistema de consola en Python para registrar y analizar gastos personales usando SQLite.
+Permite llevar control de finanzas y ver resúmenes por mes y categoría.
+
+## 🚀 Características
+
+- *Agregar Gastos*: Guarda fecha, categoría, descripción y monto
+- *Ver Historial*: Lista todos los gastos ordenados por fecha
+- *Resumen Mensual*: Calcula el total gastado en un mes específico
+- *Gastos por Categoría*: Agrupa y suma gastos usando GROUP BY de SQL
+- *Base de Datos*: Usa SQLite para persistir los datos localmente
+
+## 🛠️ Tecnologías Usadas
+
+- *Python 3*
+- *SQLite3* - Base de datos embebida
+- *SQL* - Consultas con SELECT, SUM, GROUP BY, LIKE
+
+## 📦 Cómo Usarlo
+
+1.  Clona el repositorio o ábrelo en Google Colab
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanGonzalez-Colab/Sistema-gastos-personales/blob/main/gestor_gastos.py)
+2.  Ejecuta el archivo gestor_gastos.py
+3.  Usa el menú:
