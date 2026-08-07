@@ -42,6 +42,20 @@ Aplicación de consola para llevar control de gastos personales.
 - Exportar reporte a Excel
 
 [Ver código](Gestor_gastos_v2.ipynb) | [Descargar ejemplo Excel](reporte_gastos.xlsx)
+---
+
+### 📈 Proyecto 3: Análisis de Precios - MercadoLibre
+Análisis de datos de Notebooks Gamer usando Pandas y Matplotlib.
+Simula extracción vía API y genera insights de precios.
+
+**Tecnologías**: Python, Pandas, Matplotlib, Requests, APIs
+
+**Análisis**:
+- [x] Limpieza y carga de datos en DataFrame
+- [x] Cálculo de precio promedio y producto más caro
+- [x] Gráfico de precio promedio por marca
+
+[Ver código](Analisis_Precios_ML.ipynb) | [Descargar dataset](precios_notebooks_final.csv)
 
 ## 👨‍💻 Autor
 **Juan Gonzalez**
