@@ -31,11 +31,17 @@ El sistema guarda los datos en un archivo ´gastos.db´ y te permite filtrar por
 ´2026-08´ > Total gastado: $15300
 ![Menú del Sistema de Gastos](demo_gastos.png)
 
-## 📈 V2.0 Features
-- CRUD Completo: Crear, Leer, Actualizar y Borrar
-- Exportar reportes a Excel
-- Dashboard con gráficos por categoría
-![Dashboard](demo_grafico.png)
+## Gestor de Gastos v2.0
+Aplicación de consola para llevar control de gastos personales.
+
+**Tecnologías**: Python, SQLite, Pandas, Matplotlib
+
+**Features**:
+- CRUD completo: Agregar, Ver, Borrar gastos
+- Dashboard con gráfico de torta por categoría
+- Exportar reporte a Excel
+
+[Ver código](Gestor_gastos_v2.ipynb) | [Descargar ejemplo Excel](reporte_gastos.xlsx)
 
 ## 👨‍💻 Autor
 **Juan Gonzalez**
