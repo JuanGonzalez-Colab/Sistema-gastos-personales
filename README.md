@@ -13,8 +13,11 @@ Permite llevar control de finanzas y ver resúmenes por mes y categoría.
 
 ## 🛠️ Tecnologías Usadas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-3776AB?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-3776AB?style=for-the-badge&logo=sqlite&logoColor=white)
+- Pandas - Analisis de datos
+- Matplotlib - Visualización
+- Google Colab _ Ejecución en la nube
 
 ## 📦 Cómo Usarlo
 
@@ -28,6 +31,10 @@ El sistema guarda los datos en un archivo ´gastos.db´ y te permite filtrar por
 ´2026-08´ > Total gastado: $15300
 ![Menú del Sistema de Gastos](demo_gastos.png)
 
+## 📈 V2.0 Features
+- CRUD Completo: Crear, Leer, Actualizar y Borrar
+- Exportar reportes a Excel
+- Dashboard con gráficos por categoría
 ![Dashboard](demo_grafico.png)
 
 ## 👨‍💻 Autor
