@@ -28,6 +28,8 @@ El sistema guarda los datos en un archivo ´gastos.db´ y te permite filtrar por
 ´2026-08´ > Total gastado: $15300
 ![Menú del Sistema de Gastos](demo_gastos.png)
 
+![Dashboard](demo_grafico.png)
+
 ## 👨‍💻 Autor
 **Juan Gonzalez**
 Proyecto realizado para practicar Python + SQL + Git/GitHub
